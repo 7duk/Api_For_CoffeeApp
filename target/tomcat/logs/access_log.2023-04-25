@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:11:31:34 +0700] "DELETE /ProductByOrderServlet/All%0A HTTP/1.1" 500 1739 http-bio-8080-exec-2 40
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:11:31:57 +0700] "GET /ProductByOrderServlet/All%0A HTTP/1.1" 200 4 http-bio-8080-exec-4 861
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:11:33:03 +0700] "GET /ProductByOrderServlet/All%0A HTTP/1.1" 200 4 http-bio-8080-exec-7 201
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:11:33:28 +0700] "GET /ProductByOrderServlet/All%0A HTTP/1.1" 500 3784 http-bio-8080-exec-2 902
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:11:36:28 +0700] "GET /ProductByOrderServlet/All%0A HTTP/1.1" 200 491 http-bio-8080-exec-2 983
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:11:37:13 +0700] "DELETE /ProductByOrderServlet/SP04%0A HTTP/1.1" 500 1742 http-bio-8080-exec-3 5
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:11:38:51 +0700] "DELETE /ProductByOrderServlet/SP04%0A HTTP/1.1" 204 - http-bio-8080-exec-2 882
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:11:39:50 +0700] "DELETE /ProductByOrderServlet/SP04 HTTP/1.1" 204 - http-bio-8080-exec-3 399
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:11:43:28 +0700] "DELETE /ProductByOrderServlet/SP04 HTTP/1.1" 204 - http-bio-8080-exec-6 368
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:11:47:32 +0700] "GET /EmployeeServlet/All HTTP/1.1" 500 3752 http-bio-8080-exec-9 718
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:11:53:15 +0700] "GET /EmployeeServlet/All HTTP/1.1" 200 975 http-bio-8080-exec-2 1437
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:11:56:58 +0700] "DELETE /ProductByOrderServlet/SP04 HTTP/1.1" 204 - http-bio-8080-exec-5 363

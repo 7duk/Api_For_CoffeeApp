@@ -1,0 +1,4 @@
+127.0.0.1 - - [14/Apr/2023:15:04:30 +0700] "GET /ProductByOrderServlet HTTP/1.1" 200 482 http-bio-8080-exec-1 1113
+0:0:0:0:0:0:0:1 - - [14/Apr/2023:16:37:13 +0700] "GET /ProductByOrderServlet HTTP/1.1" 200 482 http-bio-8080-exec-4 306
+127.0.0.1 - - [14/Apr/2023:16:37:54 +0700] "GET /ProductByOrderServlet HTTP/1.1" 200 482 http-bio-8080-exec-6 27
+0:0:0:0:0:0:0:1 - - [14/Apr/2023:16:37:58 +0700] "DELETE /ProductByOrderServlet HTTP/1.1" 405 1071 http-bio-8080-exec-5 192
