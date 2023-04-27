@@ -18,11 +18,11 @@ public class UploadingImage {
 //                "F:\\ServerForAndroid\\image-for-coffee_app\\nuocscam-620x620.jpg",
 //                "F:\\ServerForAndroid\\image-for-coffee_app\\trabuoi.jpg"
 //        };
-        Map config = new HashMap();
-        config.put("cloud_name", "dte2ps5qs");
-        config.put("api_key", "791388445627371");
-        config.put("api_secret", "rNQYUi2PS8ZdL8wKYExiUyZN9_4");
-        Cloudinary cloudinary = new Cloudinary(config);
+//        Map config = new HashMap();
+//        config.put("cloud_name", "dte2ps5qs");
+//        config.put("api_key", "791388445627371");
+//        config.put("api_secret", "rNQYUi2PS8ZdL8wKYExiUyZN9_4");
+//        Cloudinary cloudinary = new Cloudinary(config);
 //*************************************************
 //        Part filePart = request.getPart("file"); // get the uploaded file
 //        String publicId = "my_image_public_id"; // the public ID of the image in Cloudinary
