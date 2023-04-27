@@ -66,7 +66,7 @@ public class ProductByOrderServlet extends HttpServlet {
         } catch (SQLException e) {
             e.printStackTrace();
         }
-        // Trả về mã trạng thái 204 nếu xoá thành công
+        //  về mã trạng thái 204 nếu xoá thành công
         resp.setStatus(204);
     }
 
